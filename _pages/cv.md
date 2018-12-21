@@ -9,11 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
-Deep Learning Intern, <br/> NVIDIA, June 2018 - Sep 2018
+Deep Learning Intern, June 2018 - Sep 2018 <br/> NVIDIA
 ======
 * Human Body Pose Estimation
 
-Research Assistant <br/> Image and Video Processing Lab, Northwestern University, Sep 2015 - Present
+Research Assistant, Sep 2015 - Present <br/> Image and Video Processing Lab, Northwestern University
 ======
 * Characterization and pattern recognition in image data using deep neural networks
 * Semi-supervised Learning
@@ -21,7 +21,7 @@ Research Assistant <br/> Image and Video Processing Lab, Northwestern University
 * Sequencial Pattern Mining
 
 
-Researcher </br> Idiap Research Institute, EPFL University, May 2013 - Aug 2014
+Researcher, May 2013 - Aug 2014 <br/> Idiap Research Institute, EPFL University
 ======
 * Speech Keyword and Pattern Detection
 
@@ -31,7 +31,7 @@ ASR Gooyesh Pardaz
 * Statistical Speech Synthesis
 
 
-Research Assistant </br> Speech and Language Processing Lab (SPL), Sharif University of Technology, Sep 2010 - 2012
+Research Assistant, Sep 2010 - 2012 <br/> Speech and Language Processing Lab (SPL), Sharif University of Technology 
 ======
 
 * Statistical Parametric Speech Synthesis for Persian Language
