@@ -1,3 +1,9 @@
+---
+title: "Portfolio item number 2"
+excerpt: "Short description of portfolio item number 2 <br/><img src='/images/500x300.png'>"
+collection: portfolio
+---
+
 Deep Learning Intern, NVIDIA, June 2018 - Sep 2018
 ======
 * Human Body Pose Estimation
