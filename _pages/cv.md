@@ -9,51 +9,33 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+Deep Learning Intern, NVIDIA, June 2018 - Sep 2018
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Human Body Pose Estimation
 
-Work experience
+Research Assistant, Sep 2015 - Present
+Image and Video Processing Lab, Northwestern University
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Characterization and pattern recognition in image data using deep neural networks
+* Semi-supervised Learning
+* Multi-view Learning
+* Sequencial Pattern Mining
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
-Publications
+Researcher, May 2013 - Aug 2014
+{\href{https://www.idiap.ch/en}{Idiap Research Institute}}, EPFL University
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
+* Speech Keyword and Pattern Detection
+
+Developer, Dec 2011 - Dec 2012
+\href{http://www.asr-gooyesh.com/En/}, ASR Gooyesh Pardaz
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
+* Statistical Speech Synthesis
+
+
+Research Assistant, Sep 2010 - 2012
+Speech and Language Processing Lab (SPL), Sharif University of Technology
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
+* Statistical Parametric Speech Synthesis for Persian Language
+* Language Understanding
