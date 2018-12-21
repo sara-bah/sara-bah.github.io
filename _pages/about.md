@@ -15,6 +15,6 @@ redirect_from:
 
 
 # Education
-* Ph.D in Testology, Testing University, 2015-2019 (expected)
+* Ph.D in Computer Science, Northwestern University, 2015-2019 (expected)
 * M.S. in Artificial Intelligence, Sharif University, 2009-2011
-* B.S. in Computer Science and ENgineering, Shiraz University, 2004-2008
+* B.S. in Computer Science and Engineering, Shiraz University, 2004-2008
