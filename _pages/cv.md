@@ -25,8 +25,7 @@ Researcher, May 2013 - Aug 2014 <br/> Idiap Research Institute, EPFL University
 ======
 * Speech Keyword and Pattern Detection
 
-Developer, Dec 2011 - Dec 2012
-ASR Gooyesh Pardaz
+Developer, Dec 2011 - Dec 2012 <br/> ASR Gooyesh Pardaz
 ======
 * Statistical Speech Synthesis
 
