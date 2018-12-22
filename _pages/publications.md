@@ -4,11 +4,11 @@ permalink: /publications/
 author_profile: true
 ---
 
-<b>DeepFP: A Deep Learning Framework For User Fingerprinting via Mobile Motion Sensors</b> <br> Sara Amini, Vahid Noroozi, Sara Bahaadini, Philip S Yu, Chris Kanich. <br/><i>IEEE International Conference on Big Data <b>(BigData 2018)</b></i>.
-
 <b>Semi-supervised Deep Representation Learning for Multi-View Problems</b> <br> Vahid Noroozi, Sara Bahaadini, Lei Zheng, Sihong Xie, Weixiang Shao, Philip S Yu. <br/><i>IEEE International Conference on Big Data <b>(BigData 2018)</b></i>.
 
 <b>DIRECT: Deep Discriminative Embedding for Clustering of LIGO Data</b> <br> Sara Bahaadini, Vahid Noroozi, Neda Rohani, Scott Coughlin, Michael Zevin, Aggelos K Katsaggelos. <br/><i> IEEE International Conference on Image Processing <b>(ICIP 2018)</b></i>.
+
+<b>DeepFP: A Deep Learning Framework For User Fingerprinting via Mobile Motion Sensors</b> <br> Sara Amini, Vahid Noroozi, Sara Bahaadini, Philip S Yu, Chris Kanich. <br/><i>IEEE International Conference on Big Data <b>(BigData 2018)</b></i>.
 
 <b>Machine learning for gravity spy: Glitch classification and dataset</b> <br> Sara Bahaadini, Vahid Noroozi, Neda Rohani, Scott Coughlin, Michael Zevin, JR Smith, Vicky Kalogera, A Katsaggelos. <br/><i>Information Sciences, Elsevier, 2018</i>.
 
@@ -20,4 +20,8 @@ author_profile: true
 
 <b>Posterior-based Sparse Representation for Automatic Speech Recognition</b> <br> Sara Bahaadini, Afsaneh Asaei, David Imseng, Herve Bourlard. <br/><i>International Conference of Speech Communication Association. <b>(Interspeech 2014)</b></i>.
 
+<b>Glottal Pulse Shape Optimization using Simulated Annealing</b> <br> Sara Bahaadini, Hossein Sameti, Fattaneh Jabbari, Seyed Hamidreza Mohammadi. <br/><i>CSI International Symposium on Artificial Intelligence and Signal Processing. <b>(AISP 2012)</b></i>.
 
+<b>Implementation and Evaluation of Statistical Parametric Speech Synthesis Methods for the Persian Language</b> <br> Sara Bahaadini, Hossein Sameti, Soheil Khorram. <br/><i>IEEE International Workshop on Machine Learning for Signal Processing. <b>(MLSP 2011)</b></i>.
+
+<b>Comparative Study of Different Excitation Signals on Mel-generalized Cepstral Synthesis Filters</b> <br>Sara Bahaadini, Hossein Sameti, Seyed Hamidreza Mohammadi. <br/><i>CSI International Symposium on Artificial Intelligence and Signal Processing. <b>(AISP 2011)</b></i>.
