@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 Reaserch/Work Experience
 ======
-###<b>Deep Learning Intern</b>###, June 2018 - Sep 2018 <br/> <b>NVIDIA</b>
+###Deep Learning Intern###, June 2018 - Sep 2018 <br/> <b>NVIDIA</b>
   * Human Body Pose Estimation
 
 * <b>Research Assistant</b>, Sep 2015 - Present <br/> <b>Image and Video Processing Lab, Northwestern University</b>
