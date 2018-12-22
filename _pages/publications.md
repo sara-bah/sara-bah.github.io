@@ -10,7 +10,7 @@ author_profile: true
 
 <b>DeepFP: A Deep Learning Framework For User Fingerprinting via Mobile Motion Sensors</b> <br> Sara Amini, Vahid Noroozi, Sara Bahaadini, Philip S Yu, Chris Kanich. <br/><i>IEEE International Conference on Big Data <b>(BigData 2018)</b></i>.
 
-<b>Machine learning for gravity spy: Glitch classification and dataset</b> <br> Sara Bahaadini, Vahid Noroozi, Neda Rohani, Scott Coughlin, Michael Zevin, JR Smith, Vicky Kalogera, A Katsaggelos. <br/><i>Information Sciences, Elsevier, 2018</i>.
+<b>Machine Learning for Gravity Spy: Glitch Classification and Dataset</b> <br> Sara Bahaadini, Vahid Noroozi, Neda Rohani, Scott Coughlin, Michael Zevin, JR Smith, Vicky Kalogera, A Katsaggelos. <br/><i>Information Sciences, Elsevier, 2018</i>.
 
 <b>SEVEN: Deep Semi-supervised Verification Networks</b> <br> Vahid Noroozi, Lei Zheng, Sara Bahaadini, Sihong Xie, Philip S. Yu. <br/><i>In Proceedings of the 26th International Joint Conference on Artificial Intelligence. <b>(IJCAI 2017)</b></i>.
 
