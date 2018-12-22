@@ -1,9 +1,11 @@
 ---
-title: "Selected Publications [(Google Scholar Profile)](https://scholar.google.com/citations?user=S6SfMu8AAAAJ&hl=en)"
+title: "Selected Publications"
 permalink: /publications/
 author_profile: true
-layout: archive-taxonomy
+layout: archive
 ---
+
+[(Google Scholar Profile)](https://scholar.google.com/citations?user=S6SfMu8AAAAJ&hl=en)
 
 <b>Semi-supervised Deep Representation Learning for Multi-View Problems</b> <br> Vahid Noroozi, Sara Bahaadini, Lei Zheng, Sihong Xie, Weixiang Shao, Philip S Yu. <br/><i>IEEE International Conference on Big Data <b>(BigData 2018)</b></i>.
 
