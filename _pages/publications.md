@@ -4,9 +4,9 @@ permalink: /publications/
 author_profile: true
 ---
 
-<b>DeepFP: A Deep Learning Framework For User Fingerprinting via Mobile Motion Sensors</b> <br> Sara Amini, Vahid Noroozi, Sara Bahaadini, Philip S Yu, Chris Kanich. <br/><i>IEEE Big Data Conference <b>(BigData 2018)</b></i>.
+<b>DeepFP: A Deep Learning Framework For User Fingerprinting via Mobile Motion Sensors</b> <br> Sara Amini, Vahid Noroozi, Sara Bahaadini, Philip S Yu, Chris Kanich. <br/><i>IEEE International Conference on Big Data <b>(BigData 2018)</b></i>.
 
-<b>Semi-supervised Deep Representation Learning for Multi-View Problems</b> <br> Vahid Noroozi, Sara Bahaadini, Lei Zheng, Sihong Xie, Weixiang Shao, Philip S Yu. <br/><i>IEEE Big Data Conference <b>(BigData 2018)</b></i>.
+<b>Semi-supervised Deep Representation Learning for Multi-View Problems</b> <br> Vahid Noroozi, Sara Bahaadini, Lei Zheng, Sihong Xie, Weixiang Shao, Philip S Yu. <br/><i>IEEE International Conference on Big Data <b>(BigData 2018)</b></i>.
 
 <b>DIRECT: Deep Discriminative Embedding for Clustering of LIGO Data</b> <br> Sara Bahaadini, Vahid Noroozi, Neda Rohani, Scott Coughlin, Michael Zevin, Aggelos K Katsaggelos. <br/><i> IEEE International Conference on Image Processing <b>(ICIP 2018)</b></i>.
 
